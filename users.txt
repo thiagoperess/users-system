@@ -1,0 +1,5 @@
+Thiago;35
+Vera;64
+Lucas;30
+Python;30
+Testinho;11
